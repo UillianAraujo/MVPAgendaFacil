@@ -2,9 +2,9 @@
 
 # MVPAgendaFacil
 
-[ANÁLISE E DESENVOLVIMENTO DE SISTEMA][2] (MVP FRONT-END DEVELOPMENT)
+[ANÁLISE E DESENVOLVIMENTO DE SISTEMA][2] 
 ----------
-
+MVP FRONT-END DEVELOPMENT - Profº [Henrique Gurgacz][3]
 
 INTEGRANTE:
 ----------
@@ -29,3 +29,4 @@ Pois era de grande ocorrência de pessoas perderem hóras aguardando atendimento
 
 [1]: https://www.linkedin.com/in/uillian-silva-3a6501312/
 [2]: https://www.unifeso.edu.br
+[3]: http://lattes.cnpq.br/8586418197136487
