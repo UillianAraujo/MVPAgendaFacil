@@ -2,7 +2,7 @@
 ----------
 Trabalho do curso de ADS (MVP FRONT-END DEVELOPMENT)
 
-INTEGRANTE
+INTEGRANTE:
 Uillian da Silva Ferreira de Araujo
 ----------
 
